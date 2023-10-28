@@ -1,17 +1,17 @@
-#ParticleEngine
+# ParticleEngine
 I know it isn't much, but this is definietly one of the projects I had the most fun making
 
 It's just a simple particle simulator
 
 
-##Usage
+## Usage
 
 Download and run with python3
 You need pygame as a dependancy
 
 
 
-##Controls
+## Controls
 
 ←↑→↓: Adjust velocity and direction of the paricles
 
