@@ -1,15 +1,9 @@
 # ParticleEngine
-I know it isn't much, but this is definietly one of the projects I had the most fun making
-
-It's just a simple particle simulator
-
+Simple particle simulator
 
 ## Usage
-
 Download and run with python3
 You need pygame as a dependancy
-
-
 
 ## Controls
 
