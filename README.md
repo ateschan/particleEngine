@@ -3,7 +3,7 @@ Simple particle simulator
 
 ## Usage
 Download and run with python3
-You need pygame as a dependancy
+You need pygame as a dependency
 
 ## Controls
 
