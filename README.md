@@ -1,3 +1,5 @@
+https://github.com/ateschan/particleEngine/assets/89411709/9de74485-c448-483b-9400-aba1b43e0a44
+
 # ParticleEngine
 Simple particle simulator
 
